@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Purpose:
 - Runs live F1 tracking
 - Polls OpenF1 API for real-time telemetry
@@ -12,8 +13,6 @@ Tech Stack:
 - Redis
 - WebSockets
 - Maven build system -->
-
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
