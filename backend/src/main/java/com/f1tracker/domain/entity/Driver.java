@@ -10,8 +10,6 @@ package com.f1tracker.domain.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-
-import java.lang.annotation.Inherited;
 import java.time.LocalDateTime;
 
 @Entity

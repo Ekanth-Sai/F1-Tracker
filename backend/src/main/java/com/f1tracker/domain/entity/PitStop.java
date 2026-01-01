@@ -1,4 +1,4 @@
-package main.java.com.f1tracker.domain.entity;
+package com.f1tracker.domain.entity;
 
 public class PitStop {
     
